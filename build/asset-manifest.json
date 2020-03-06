@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd4b9eea.chunk.css",
+    "main.js": "/static/js/main.fa2fdfb9.chunk.js",
+    "main.js.map": "/static/js/main.fa2fdfb9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.447fd809.js",
+    "runtime-main.js.map": "/static/js/runtime-main.447fd809.js.map",
+    "static/js/2.83aa09e4.chunk.js": "/static/js/2.83aa09e4.chunk.js",
+    "static/js/2.83aa09e4.chunk.js.map": "/static/js/2.83aa09e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38d0b0e94976936bc60f3dc847f370fe.js": "/precache-manifest.38d0b0e94976936bc60f3dc847f370fe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bd4b9eea.chunk.css.map": "/static/css/main.bd4b9eea.chunk.css.map",
+    "static/js/2.83aa09e4.chunk.js.LICENSE.txt": "/static/js/2.83aa09e4.chunk.js.LICENSE.txt",
+    "static/media/Daki.jpg": "/static/media/Daki.bfbd1fb5.jpg",
+    "static/media/Selam.jpg": "/static/media/Selam.e3709d55.jpg",
+    "static/media/Sepeda.jpg": "/static/media/Sepeda.e54cc6b9.jpg",
+    "static/media/App.css": "/static/media/Sepeda3.751ba5fe.jpg",
+    "static/media/move-logo.jpg": "/static/media/move-logo.97e32961.jpg",
+    "static/media/panah.jpg": "/static/media/panah.7df90819.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447fd809.js",
+    "static/js/2.83aa09e4.chunk.js",
+    "static/css/main.bd4b9eea.chunk.css",
+    "static/js/main.fa2fdfb9.chunk.js"
+  ]
+}
